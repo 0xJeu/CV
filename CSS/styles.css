@@ -7,11 +7,8 @@
         border-color: grey;
         border-width: 5px;
         }
-        h3 {
-        color: #DF2E38;
+        h3 {color: #DF2E38;}
+        h1 {color: #DF2E38;}
+        td {font-style: italic;}
+        li {font-style: italic;}
 
-        }
-        h1 {
-        color: #DF2E38;
-
-        }
